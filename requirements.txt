@@ -1,5 +1,8 @@
 ipykernel
 mitdeeplearning
 matplotlib
+scipy
 numpy
 opencv-python
+comet_ml
+python-dotenv
